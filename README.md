@@ -389,5 +389,8 @@ En este capítulo, nos centraremos en definir los requerimientos que debemos cum
 
 En esta sección se explican y se presentan los Impact Mappings. Creados a partir de los User Personas, incluyendo los Business Goals de cada uno, para obtener los features que ayudarán a producir los Deliverables identificados.
 
+Impact Mapping Gerente:
+![Impact Mapping Gerente](imgs/impact-mapping-1.png)
+
 ## 3.4. Product Backlog.
 
