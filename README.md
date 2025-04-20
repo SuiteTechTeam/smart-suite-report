@@ -407,3 +407,5 @@ Impact Mapping Cliente:
 
 ## 3.4. Product Backlog.
 
+En esta sección se presenta el Product Backlog, que contiene las historias de usuario priorizadas y sus respectivas estimaciones de esfuerzo. El Product Backlog es una lista dinámica y priorizada de los requisitos del producto, que se utiliza para guiar el desarrollo del mismo. A medida que se avanza en el proyecto, el Product Backlog puede evolucionar y adaptarse a los cambios en las necesidades del cliente y del mercado.
+
