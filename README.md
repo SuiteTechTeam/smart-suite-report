@@ -383,6 +383,8 @@ En este capítulo, nos centraremos en definir los requerimientos que debemos cum
 
 ## 3.1. To-Be Scenario Mapping.
 
+En este apartado se presentan los To-Be Scenario Mapping para los segmentos de gerentes y trabajadores, que describen cómo serán las interacciones y tareas de los usuarios con el sistema de gestión hotelera una vez implementado.
+
 ## 3.2. User Stories.
 
 ## 3.3. Impact Mapping.
