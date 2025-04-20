@@ -387,13 +387,13 @@ En este apartado se presentan los To-Be Scenario Mapping para los segmentos de g
 
 Segmento 1:
 
-![segmento-1]([https://i.imgur.com/1ezWSFr.jpeg](https://raw.githubusercontent.com/SuiteTechTeam/smart-suite-report/refs/heads/feature/chapter-3/imgs/TO-BE%20SEGMENTO%201.jfif))
+![segmento-1](https://raw.githubusercontent.com/SuiteTechTeam/smart-suite-report/refs/heads/feature/chapter-3/imgs/TO-BE%20SEGMENTO%201.jfif)
 
 El To-Be Scenario Mapping para el segmento Gerentes.
 
 Segmento 2:
 
-![segmento-2]([https://i.imgur.com/1ezWSFr.jpeg](https://raw.githubusercontent.com/SuiteTechTeam/smart-suite-report/refs/heads/feature/chapter-3/imgs/TO-BE%20SEGMENTO%202.jfif))
+![segmento-2](https://raw.githubusercontent.com/SuiteTechTeam/smart-suite-report/refs/heads/feature/chapter-3/imgs/TO-BE%20SEGMENTO%202.jfif)
 
 El To-Be Scenario Mapping para el segmento Trabajadores.
 
