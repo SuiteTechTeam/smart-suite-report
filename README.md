@@ -38,9 +38,9 @@
 
 ## Registro de Versiones del Informe
 
-| Versión | Fecha      | Autor                                                                          | Descripción de modificación                                                                                      |
-|---------|------------|--------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------|
-| 1.0     | 14/04/2025 | Ely Cortez                                                               | Se creo la ramificación del repositorio y se adicionó los documentos en su versión inicial previa a la investigacón |
+| Versión | Fecha      | Autor      | Descripción de modificación                                                                                         |
+| ------- | ---------- | ---------- | ------------------------------------------------------------------------------------------------------------------- |
+| 1.0     | 14/04/2025 | Ely Cortez | Se creo la ramificación del repositorio y se adicionó los documentos en su versión inicial previa a la investigacón |
 
 
 
@@ -383,11 +383,11 @@ En este capítulo, nos centraremos en definir los requerimientos que debemos cum
 
 ## 3.1. To-Be Scenario Mapping.
 
-En este apartado se presentan los To-Be Scenario Mapping para los segmentos de gerentes y trabajadores, que describen cómo serán las interacciones y tareas de los usuarios con el sistema de gestión hotelera una vez implementado.Estos mapas proporcionan una visión general de las funcionalidades y características que se espera que tenga el producto final, y sirven como guía para el diseño y desarrollo del sistema.
-
 ## 3.2. User Stories.
 
 ## 3.3. Impact Mapping.
+
+En esta sección se explican y se presentan los Impact Mappings. Creados a partir de los User Personas, incluyendo los Business Goals de cada uno, para obtener los features que ayudarán a producir los Deliverables identificados.
 
 ## 3.4. Product Backlog.
 
