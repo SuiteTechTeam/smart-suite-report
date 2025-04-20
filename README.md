@@ -387,8 +387,11 @@ En este apartado se presentan los To-Be Scenario Mapping para los segmentos de g
 
 Segmento 1:
 
+El To-Be Scenario Mapping para el segmento Gerentes.
+
 Segmento 2:
 
+El To-Be Scenario Mapping para el segmento Trabajadores.
 
 ## 3.2. User Stories.
 
