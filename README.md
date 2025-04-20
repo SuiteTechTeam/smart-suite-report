@@ -397,6 +397,11 @@ El To-Be Scenario Mapping para el segmento Trabajadores.
 
 Redactamos las historias de usuario para el sistema de gestión hotelera basándonos en las necesidades y desafíos identificados en las entrevistas y el análisis de los segmentos de gerentes y trabajadores. Las historias de usuario describen las funcionalidades y características que los usuarios finales esperan del sistema, y se utilizan para guiar el diseño y desarrollo del producto.
 
+| HUX/EPX | Historia de Usuario / Épica                                   | Descripción                                                                                                                                            | Criterios de Aceptación                                                                                                                                                                                                                                                                                                                          | Relacionado con (Epic ID) |
+|---------|---------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------|
+| EP01    | Información del producto                                      | Como visitante del sitio web, quiero obtener información relacionada al producto que se ofrece.                                                        | Dado que el visitante está en la página de inicio <br> Cuando observa la información del producto que se está ofreciendo <br> Entonces obtiene una mejor visión de lo que ofrece la empresa. <br> Y se registra o considera registrarse como usuario.                                                                                                            |                           | 
+
+
 
 ## 3.3. Impact Mapping.
 
