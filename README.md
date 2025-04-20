@@ -392,5 +392,8 @@ En esta sección se explican y se presentan los Impact Mappings. Creados a parti
 Impact Mapping Gerente:
 ![Impact Mapping Gerente](imgs/impact-mapping-1.png)
 
+Impact Mapping Cliente:
+![Impact Mapping Cliente](imgs/impact-mapping-2.png)
+
 ## 3.4. Product Backlog.
 
