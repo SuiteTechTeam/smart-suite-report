@@ -378,5 +378,14 @@ líneas de código que se han modificado en cada uno de los commits.
     </tr>
 </table>
 
+# Capítulo III: Requirements Specification.
+En este capítulo, nos centraremos en definir los requerimientos que debemos cumplir para el exito de nuestra solución.
 
+## 3.1. To-Be Scenario Mapping.
+
+## 3.2. User Stories.
+
+## 3.3. Impact Mapping.
+
+## 3.4. Product Backlog.
 
