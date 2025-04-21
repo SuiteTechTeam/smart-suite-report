@@ -403,18 +403,153 @@ líneas de código que se han modificado en cada uno de los commits.
 ### 2.2.3. Análisis de entrevistas.
 
 ## 2.3. Needfinding.
+Para tener una mejor idea de cómo será la experiencia del usuario con nuestro producto, utilizaremos las herramientas de User Persona, User Task Matrix, User Journey Mapping, Empathy Mapping y As-is Scenario Mapping.
 
 ### 2.3.1. User Personas.
 
+**Segmento de gerentes:**  
+![Imagen User Persona 1](https://i.imgur.com/68GDcWN.png)
+
+**Segmento de trabajadores:**  
+![Imagen User Persona 1](https://i.imgur.com/R5GiS1R.png)
 ### 2.3.2. User Task Matrix.
+
+| Tarea                                  | Gerente (Frecuencia / Importancia) | Empleado (Frecuencia / Importancia) |
+|----------------------------------------|------------------------------------|-------------------------------------|
+| Crear una cuenta                      | Alta - Alta                        | Alta - Alta                         |
+| Seguimiento de ingresos y gastos      | Media - Alta                       | Baja - Media                        |
+| Gestión de inventarios                | Media - Alta                       | Alta - Alta                         |
+| Coordinación con proveedores          | Alta - Alta                        | Baja - Baja                         |
+| Capacitación del personal             | Alta - Alta                        | Media - Alta                        |
+| Evaluación de desempeño del personal | Alta - Alta                        | Alta - Alta                         |
+| Preparación de informes y análisis de datos | Media - Alta              | Alta - Alta                         |
+| Recibir notificaciones de baja en el inventario | Alta - Alta             | Baja - Media                        |
+| Asignar tareas a empleados            | Alta - Alta                        | Alta - Alta                         |
+| Visualizar la ocupación de habitaciones en tiempo real | Alta - Alta          | Media - Media                       |
+| Administrar permisos de los empleados | Alta - Alta                        | Baja - Alta                         |
+| Programar turnos de trabajo           | Alta - Alta                        | Alta - Alta                         |
+| Notificaciones de cambio de agenda    | Media - Alta                       | Baja - Baja                         |
+| Reportar problemas a la gerencia      | Alta - Alta                        | Media - Alta                        |
+| Registrar el check-in y check-out del huésped | Alta - Alta                  | Alta - Alta                         |
+| Notificaciones de comentarios         | Media - Alta                       | Baja - Alta                         |
+
+Tareas con mayor frecuencia e importancia:<br><br>
+Crear una cuenta: Esta tarea es crucial tanto para el gerente como para el empleado, ya que implica establecer una identidad en el sistema y acceso a las herramientas.<br><br>
+Seguimiento de ingresos y gastos: Esta tarea es de alta importancia para el gerente, ya que implica la supervisión de la salud financiera del hotel y la toma de decisiones informadas. Para el empleado, aunque puede no estar directamente involucrado en esta tarea a diario, entender los ingresos y gastos del hotel puede ayudar en la planificación y ejecución de sus responsabilidades.<br><br>
+Gestión de inventarios: Tanto el gerente como el empleado realizan esta tarea con alta frecuencia e importancia, ya que asegura que el hotel tenga los suministros necesarios para operar sin problemas. La falta de inventario puede afectar negativamente la experiencia del cliente y la eficiencia del hotel.<br><br>
+Coordinación con proveedores: Esta tarea es de alta importancia para el gerente, ya que garantiza la disponibilidad oportuna de suministros esenciales. Aunque para el empleado puede tener una frecuencia menor, sigue siendo crucial para mantener la continuidad operativa.<br><br>
+Asignar tareas a empleados: Esta tarea es fundamental para ambos usuarios, ya que garantiza que el trabajo se distribuya de manera eficiente y que todas las actividades necesarias para el funcionamiento del hotel se completen a tiempo.<br><br>
+Programar turnos de trabajo: La programación de turnos es esencial para garantizar una cobertura adecuada en todas las áreas del hotel, lo que contribuye a la satisfacción del cliente y al funcionamiento fluido del negocio.<br><br>
+Registrar el check-in y el check-out del huésped: Estas tareas son cruciales para ambos usuarios, ya que afectan directamente la experiencia del cliente y la gestión de la ocupación de las habitaciones del hotel.<br><br>
+Principales diferencias y coincidencias entre lo realizado por los User Personas:<br><br>
+Diferencias:<br>
+La coordinación con proveedores es una tarea de alta importancia para el gerente pero de baja importancia para el empleado. Esto refleja el nivel de responsabilidad y la naturaleza estratégica de las decisiones que el gerente toma en comparación con las tareas más operativas del empleado.<br><br>
+La capacitación del personal es una tarea de alta importancia para el gerente, ya que influye en la calidad del servicio y la satisfacción del cliente, pero es de media importancia para el empleado, que puede recibir la capacitación pero no necesariamente esté involucrado en su planificación y ejecución.<br><br>
+Coincidencias:<br>
+Tanto el gerente como el empleado participan en la evaluación del desempeño del personal, lo que destaca la importancia compartida de garantizar un equipo bien capacitado y motivado para brindar un servicio de calidad.<br><br>
+La preparación de informes y análisis de datos es una tarea de alta importancia para ambos roles, lo que resalta la necesidad de tomar decisiones basadas en datos para mejorar la eficiencia operativa y la experiencia del cliente.
 
 ### 2.3.3. User Journey Mapping.
 
+User Journey Map - Carlos Rebagliati - Gerente (As-Is):<br><br>
+Inicio del día: El gerente comienza el día revisando los informes financieros y preparando la agenda para el día. Se siente estresado por la cantidad de tareas pendientes y la presión para garantizar que todo funcione sin problemas.<br><br>
+Gestión de inventarios: El gerente se enfrenta a la tarea de revisar el inventario y hacer pedidos a los proveedores según sea necesario. Se siente frustrado por la falta de un sistema integrado que facilite esta tarea, y aburrido por la tarea en sí.<br><br>
+Coordinación del personal: El gerente asigna tareas al personal y revisa los horarios. Se siente abrumado por la cantidad de comunicación necesaria para coordinar a todos los empleados.<br><br>
+Comunicación con proveedores: El gerente se comunica con los proveedores para hacer seguimiento de los pedidos y resolver cualquier problema de entrega. Se siente frustrado por la falta de eficiencia en la comunicación.<br><br>
+Análisis de datos y toma de decisiones: El gerente revisa los informes y datos disponibles para tomar decisiones informadas para el hotel. Se siente satisfecho cuando encuentra información útil, pero también preocupado por la falta de herramientas para un análisis más profundo, terminando con una sensación de aceptación por ser la última tarea del día.
+
+![Journey Map Gerente](https://i.imgur.com/CDlhVY7.jpeg)
+
+User Journey Map - Juan Guarnizo - Empleado (As-Is):<br><br>
+Inicio del turno: El empleado comienza su turno revisando los horarios y recibiendo instrucciones del gerente. Se siente preparado para comenzar su jornada laboral.<br><br>
+Atención al Cliente: El empleado atiende a los clientes, toma pedidos y proporciona asistencia según sea necesario. Se esfuerza por brindar un servicio amable y eficiente, pero termina sintiéndose aburrido o frustrado.<br><br>
+Realización de tareas asignadas: El empleado completa las tareas asignadas, como limpieza de habitaciones, reposición de suministros o preparación de alimentos. Termina furioso cuando no obtiene una idea clara de los suministros y recursos faltantes.<br><br>
+Comunicación con el Equipo: El empleado se comunica con otros miembros del equipo para coordinar actividades o resolver problemas. Se esfuerza por mantener una comunicación clara y efectiva con sus colegas, pero se frustra cuando ocurren malentendidos.<br><br>
+Final del día: El empleado finaliza su turno, informa al gerente sobre cualquier problema o tarea pendiente, y se prepara para partir. Se siente resignado al terminar, especialmente cuando faltan tareas por completar y es a causa de la mala organización de recursos o suministros.
+
+![Journey Map Empleado](https://i.imgur.com/CDlhVY7.jpeg)
+
 ### 2.3.4. Empathy Mapping.
 
+**Segmento gerente:**
+![Empathy Map Segmento1](https://i.imgur.com/572jtIM.png)
+
+**Segmento trabajador:**
+![Empathy Map Segmento1](https://i.imgur.com/ega3pUi.png)
+
 ### 2.3.5. As-is Scenario Mapping.
+En esta sección se presentan los Scenario Mapping para los segmentos de gerentes y trabajadores, que describen cómo son las experiencias actuales de los usuarios en sus tareas diarias.
+
+El link para ambos Scenario Mapping es: [Link de enlace](https://lucid.app/lucidspark/6d541f3f-440a-40fc-b3a7-1461742dc65e/edit?viewport_loc=2162%2C964%2C2846%2C1413%2C0_0&invitationId=inv_0e4e4622-20f9-43c4-ac8a-c034737fb585)
+
+**Segmento gerente:**
+![Segmento1](assets/chapter-2/seg-gerente.png)
+
+**Segmento trabajador:**
+![Segmento2](assets/chapter-2/seg-trabaj.png)
 
 ## 2.4. Ubiquitous Language.
+En esta sección, nos centraremos en definir el significado de ciertos términos utilizados en el ambiente de nuestra solución en la gestión hotelera.
+
+- **Check-In**  
+  **Definition:** Process by which a guest registers their arrival at the hotel, provides the necessary information and receives the key to their room.
+
+- **Check-Out**  
+  **Definition:** Process by which a guest completes their stay at the hotel, makes final payment, and returns the room key.
+
+- **Role**  
+  **Definition:** Worker role to a specific area.
+
+- **Staff**  
+  **Definition:** They represent all hotel workers. They perform various tasks and responsibilities needed for the organization to operate.
+
+- **Reservation**  
+  **Definition:** Booking of a room by a guest.
+
+- **Occupancy**  
+  **Definition:** The percentage of rooms occupied in the hotel over a specified period of time.
+
+- **Rate**  
+  **Definition:** The price per night for a room.
+
+- **House Rules**  
+  **Definition:** Policies and regulations of the hotel that guests are required to follow.
+
+- **Housekeeping**  
+  **Definition:** The department responsible for cleaning and maintaining the rooms.
+
+- **Inventory Management**  
+  **Definition:** The process of overseeing and controlling the hotel's supply of goods and materials, ensuring that adequate stock levels are maintained while minimizing costs and waste.
+
+- **Asset Tracking**  
+  **Definition:** The practice of monitoring and managing the hotel's physical assets, such as furniture, equipment, and fixtures, to ensure they are utilized efficiently and maintained properly.
+
+- **Task Management**  
+  **Definition:** The organization and tracking of tasks and responsibilities within the hotel, ensuring that deadlines are met and workflows are optimized.
+
+- **Type of Reservation**  
+  **Definition:** List of types of reservations.
+
+- **Staff Scheduling**  
+  **Definition:** The process of creating and managing work schedules for hotel employees, taking into account factors such as shift rotations, staffing levels, and employee availability.
+
+- **Resource Allocation**  
+  **Definition:** The allocation and distribution of resources, such as staff, equipment, and funds, to different areas of the hotel based on operational needs and priorities.
+
+- **Vendor Management**  
+  **Definition:** The coordination and oversight of relationships with external suppliers and vendors, including negotiating contracts, monitoring performance, and ensuring timely delivery of goods and services.
+
+- **Quality Control**  
+  **Definition:** The process of monitoring and evaluating the quality of products and services offered by the hotel, identifying areas for improvement, and implementing measures to maintain or enhance quality standards.
+
+- **Cost Management**  
+  **Definition:** The control and optimization of expenses within the hotel, including labor costs, operating expenses, and capital expenditures, to maximize profitability and efficiency.
+
+- **Data Analytics**  
+  **Definition:** The use of data analysis techniques to extract insights and patterns from hotel operations data, enabling informed decision-making and strategic planning.
+
+- **Risk Management**  
+  **Definition:** The identification, assessment, and mitigation of risks when resources are limited at any moment.
 
 # Capítulo III: Requirements Specification
 
