@@ -440,6 +440,63 @@ Binz 360 es una empresa que se encarga de la gestión de los recursos hoteleros,
 
 ### 2.1.2. Estrategias y tácticas frente a competidores.
 
+Luego de realizar los análisis respectivos, las principales estrategias contra competidores son:
+
+A) Diferenciación de Servicios:<br>
+Estrategia: Identificar y desarrollar características únicas que hagan que Sweet Manager se destaque de otras soluciones en el mercado.<br>
+Tácticas:<br>
+Realizar investigaciones de mercado para comprender las necesidades y deseos no satisfechos de los clientes en la gestión hotelera.<br>
+Desarrollar nuevas funciones o servicios innovadores que aborden estas necesidades de manera efectiva.<br>
+Promover activamente estas características diferenciadoras a través de campañas de marketing y comunicación.
+
+B) Calidad Consistente:<br>
+Estrategia: Garantizar altos estándares de calidad en todos los aspectos de la aplicación y su servicio.<br>
+Tácticas:<br>
+Implementar rigurosos controles de calidad durante el desarrollo y la implementación de la aplicación.<br>
+Ofrecer capacitación y soporte continuo a los clientes para garantizar un uso óptimo de Sweet Manager.<br>
+Recopilar y analizar regularmente retroalimentación de los clientes para identificar áreas de mejora en la calidad y tomar medidas correctivas.
+
+C) Precios Competitivos:<br>
+Estrategia: Ofrecer una propuesta de valor atractiva que justifique el precio de Sweet Manager en comparación con otras soluciones en el mercado.<br>
+Tácticas:<br>
+Realizar análisis de precios comparativos para asegurarse de que los precios de Sweet Manager sean competitivos pero también rentables.<br>
+Ofrecer opciones de precios flexibles y personalizadas para adaptarse a las necesidades y presupuestos de diferentes tipos de hoteles.<br>
+Destacar el retorno de la inversión (ROI) y los beneficios adicionales que ofrece Sweet Manager para justificar su precio.
+
+D) Atención al Cliente de Calidad:<br>
+Estrategia: Priorizar la satisfacción del cliente y establecer relaciones sólidas con los usuarios de Sweet Manager.<br>
+Tácticas:<br>
+Ofrecer un servicio de atención al cliente receptivo y accesible, con tiempos de respuesta rápidos y soluciones efectivas.<br>
+Implementar programas de fidelización y recompensas para premiar la lealtad de los clientes. Fomentar una cultura interna centrada en el cliente y capacitar al equipo para entender y satisfacer las necesidades de los usuarios.
+
+E) Marketing y Publicidad Inteligente:<br>
+Estrategia: Utilizar estratégicamente los canales de marketing y publicidad para aumentar la visibilidad y la demanda de Sweet Manager.<br>
+Tácticas:<br>
+Segmentar el mercado y dirigir las campañas de marketing a los segmentos de clientes más relevantes y receptivos.<br>
+Utilizar tácticas de marketing digital como SEO, publicidad en redes sociales y marketing de contenidos para llegar a una audiencia más amplia.<br>
+Colaborar con influencers y líderes de opinión en la industria hotelera para respaldar y promocionar Sweet Manager.
+
+F) Alianzas Estratégicas:<br>
+Estrategia: Establecer asociaciones con otras empresas o proveedores complementarios para expandir el alcance y la funcionalidad de Sweet Manager.<br>
+Tácticas:<br>
+Identificar y establecer relaciones con empresas que ofrezcan servicios o productos que puedan integrarse con Sweet Manager de manera sinérgica.<br>
+Colaborar en eventos de la industria y programas de co-marketing para aumentar la visibilidad de la aplicación y sus socios.<br>
+Negociar acuerdos mutuamente beneficiosos que agreguen valor tanto para Sweet Manager como para sus socios.
+
+G) Innovación Continua:<br>
+Estrategia: Mantenerse a la vanguardia de la innovación en tecnología y gestión hotelera para ofrecer constantemente nuevas soluciones y mejoras.<br>
+Tácticas:<br>
+Establecer un equipo de investigación y desarrollo dedicado a la exploración de nuevas tecnologías y tendencias en la industria hotelera.<br>
+Fomentar una cultura de innovación dentro de la empresa, donde se valoren las ideas y se promueva la experimentación.<br>
+Mantenerse en contacto cercano con los clientes y la retroalimentación del mercado para identificar oportunidades de mejora y áreas de necesidad no satisfechas.
+
+H) Recopilación de Comentarios y Mejora Continua:<br>
+Estrategia: Utilizar comentarios de los clientes y datos analíticos para impulsar mejoras continuas en Sweet Manager.<br>
+Tácticas:<br>
+Implementar sistemas de retroalimentación y encuestas para recopilar comentarios de los usuarios de manera regular.<br>
+Analizar datos y métricas clave para identificar tendencias y áreas de oportunidad para la mejora.<br>
+Priorizar y ejecutar cambios basados en la retroalimentación del cliente y las necesidades del mercado, manteniendo un enfoque en la evolución constante de la aplicación.
+
 ## 2.2. Entrevistas.
 
 ### 2.2.1. Diseño de entrevistas.
