@@ -498,8 +498,48 @@ Analizar datos y métricas clave para identificar tendencias y áreas de oportun
 Priorizar y ejecutar cambios basados en la retroalimentación del cliente y las necesidades del mercado, manteniendo un enfoque en la evolución constante de la aplicación.
 
 ## 2.2. Entrevistas.
+Las entrevistas son una herramienta fundamental para comprender las necesidades, deseos y desafíos de los usuarios, así como para validar las hipótesis y suposiciones del negocio. A través de las entrevistas, se pueden obtener valiosos conocimientos sobre las expectativas de los clientes, sus experiencias actuales y sus preferencias en cuanto a productos y servicios. En el caso de Sweet Manager, las entrevistas con propietarios, gerentes y personal de hoteles serán fundamentales para diseñar una solución que se adapte a las necesidades del mercado y ofrezca un valor significativo a los usuarios.
 
 ### 2.2.1. Diseño de entrevistas.
+
+En esta sección, se documentarán las preguntas que se utilizaron en nuestras entrevistas, contiendo las preguntas generales que se comparten entre los segmentos objetivos, y las preguntas que fueron creadas específicamente para cada una.
+
+**Preguntas complementarias generales**
+- ¿Qué navegador usas con más frecuencia?<br>
+- ¿Qué dispositivo tecnológico usas con más frecuencia?<br>
+- ¿Cómo describes tu personalidad?<br>
+- ¿Presentas alguna frustración en el trabajo?<br>
+- ¿Cuáles son los canales de interacción que usas?<br>
+- ¿Qué tipo de ambiente de trabajo te resulta más motivador y productivo?<br>
+- ¿Cómo se llama el distrito o lugar de tu residencia?<br>
+- ¿Qué objetivos tienes tanto laboralmente como personalmente?
+
+**Entrevistas usuario segmento 1: Gerentes**
+
+- ¿Cuáles son los principales desafíos que enfrentan en la gestión diaria de su hotel?<br>
+- ¿Qué características o funcionalidades consideraría más útiles para mejorar la eficiencia de su hotel?<br>
+- ¿Cómo gestionan actualmente las reservas de habitaciones y el seguimiento de ingresos y gastos en su hotel?<br>
+- ¿Qué herramientas o software utilizan actualmente para la gestión hotelera y qué aspectos les gustaría mejorar de esas herramientas?<br>
+- ¿Cuál es su opinión sobre la importancia de la movilidad y la accesibilidad en las soluciones de gestión hotelera?<br>
+- ¿Qué aspectos valoran más al evaluar nuevas soluciones de software para su hotel?<br>
+- ¿Cómo creen que podríamos mejorar la comunicación y la colaboración entre el personal del hotel y los gerentes?<br>
+- ¿Qué desafíos enfrentan al gestionar proveedores y controlar los inventarios en su hotel?<br>
+- ¿Cómo gestionan actualmente la satisfacción y las preferencias de los clientes en su hotel?<br>
+- ¿Cómo ve conveniente un sistema hotelero dedicado a la gestión de recursos, comunicación con proveedores, seguimiento de ganancias, etc?
+
+**Entrevistas usuario segmento 2: Trabajdores**
+
+- ¿Cuáles son las tareas o procesos diarios que considera más tediosos o que consumen más tiempo en su trabajo?<br>
+- ¿Qué herramientas o sistemas utilizan actualmente para realizar su trabajo y qué aspectos les resultan más difíciles o menos eficientes?<br>
+- ¿Cómo describiría la interacción y la comunicación entre los diferentes departamentos y miembros del personal del hotel?<br>
+- ¿Qué características adicionales le gustaría ver en un sistema de gestión hotelera para facilitar su trabajo diario?<br>
+- ¿Cómo se sienten acerca de la adopción de nuevas tecnologías en el lugar de trabajo y cómo creen que podría mejorar su experiencia laboral?<br>
+- ¿Qué desafíos enfrenta al gestionar las solicitudes de los huéspedes y asegurarse de que se cumplan sus expectativas durante su estancia?<br>
+- ¿Cómo manejan actualmente la capacitación y el desarrollo profesional en su hotel?<br>
+- ¿Qué medidas tomarían para mejorar la eficiencia y la colaboración dentro del equipo de trabajo?<br>
+- ¿Cómo creen que podríamos simplificar los procesos de registro de huéspedes y check-in/check-out en su hotel?<br>
+- ¿Qué herramientas o recursos adicionales les ayudarán a ofrecer un mejor servicio a los huéspedes y mejorar su experiencia general en el hotel?
+
 
 ### 2.2.2. Registro de entrevistas.
 
