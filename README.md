@@ -543,7 +543,98 @@ En esta sección, se documentarán las preguntas que se utilizaron en nuestras e
 
 ### 2.2.2. Registro de entrevistas.
 
+A continuación, se registraron todas las entrevistas realizadas para nuestra solución, categorizadas según su segmento objetivo, y con un resumen que destaca las características y críticas realizadas sobre nuestro proyecto.
+
+**Entrevista 1 (Gerentes)**  
+URL del Vídeo:
+Nombre:  <br>
+Edad: <br>
+Sexo: <br>
+Ocupación: Gerente de hotel<br>
+Lugar donde vive: <br>
+Duración de la entrevista: <br>
+Personalidad: <br>
+![Imagen de entrevista]()<br>  
+(agregar un resumen)
+
+**Entrevista 2 (Gerentes)**  
+URL del Vídeo:
+Nombre:  <br>
+Edad: <br>
+Sexo: <br>
+Ocupación: Gerente de hotel<br>
+Lugar donde vive: <br>
+Duración de la entrevista: <br>
+Personalidad: <br>
+![Imagen de entrevista]()<br>  
+(agregar un resumen)
+
+
+**Entrevista 3 (Gerentes)**  
+URL del Vídeo:
+Nombre:  <br>
+Edad: <br>
+Sexo: <br>
+Ocupación: Gerente de hotel<br>
+Lugar donde vive: <br>
+Duración de la entrevista: <br>
+Personalidad: <br>
+![Imagen de entrevista]()<br>  
+(agregar un resumen)
+
+**Entrevista 1 (Empleados)**  
+URL del Vídeo:
+Nombre:  <br>
+Edad: <br>
+Sexo: <br>
+Ocupación: Trabajador de hotel<br>
+Lugar donde vive: <br>
+Duración de la entrevista: <br>
+Personalidad: <br>
+![Imagen de entrevista]()<br>  
+(agregar un resumen)
+
+**Entrevista 1 (Empleados)**  
+URL del Vídeo:
+Nombre:  <br>
+Edad: <br>
+Sexo: <br>
+Ocupación: Trabajador de hotel<br>
+Lugar donde vive: <br>
+Duración de la entrevista: <br>
+Personalidad: <br>
+![Imagen de entrevista]()<br>  
+(agregar un resumen)
+
+**Entrevista 1 (Empleados)**  
+URL del Vídeo:
+Nombre:  <br>
+Edad: <br>
+Sexo: <br>
+Ocupación: Trabajador de hotel<br>
+Lugar donde vive: <br>
+Duración de la entrevista: <br>
+Personalidad: <br>
+![Imagen de entrevista]()<br>  
+(agregar un resumen)
+
+
 ### 2.2.3. Análisis de entrevistas.
+Para concluir, en el apartado de análisis, usamos métricas obtenidas a partir de las preguntas que fueron respondidas, y la frecuencia de ciertas respuestas encontradas en las entrevistas.
+
+**Preguntas complementarias generales**
+
+![Reporte](https://i.imgur.com/nZq5rT4.png)<br>
+![Reporte](https://i.imgur.com/x9WLK4k.png)<br>
+![Reporte](https://i.imgur.com/g2onQok.png)
+
+**Segmento de gerentes**  
+![Analisis 1](https://i.imgur.com/SYDv3CT.png)<br>
+![Analisis 2](https://i.imgur.com/4dczXCF.png)<br>
+**Segmento de trabajadores**<br>
+![Analisis 3](https://i.imgur.com/oTUVvys.png)<br>
+![Analisis 4](https://i.imgur.com/puQWTwg.png)
+
 
 ## 2.3. Needfinding.
 Para tener una mejor idea de cómo será la experiencia del usuario con nuestro producto, utilizaremos las herramientas de User Persona, User Task Matrix, User Journey Mapping, Empathy Mapping y As-is Scenario Mapping.
