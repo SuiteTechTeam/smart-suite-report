@@ -13,13 +13,8 @@
 # Informe Trabajo Final
 ## Docente: Marco Antonio Leon Baca
 ## Startup: SuiteTechTeam
-<<<<<<< HEAD
-## Producto: 
-## Integrantes .
-=======
 ## Producto: SmartSuit
 ## Integrantes 
->>>>>>> develop
 
  </center> 
 
