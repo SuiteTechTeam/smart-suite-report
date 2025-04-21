@@ -382,6 +382,26 @@ líneas de código que se han modificado en cada uno de los commits.
 
 ## 1.3. Segmentos objetivo.
 
+A partir de nuestros usuarios asumidos, logramos encontrar nuestros segmentos objetivos a los que va dirigido nuestra solución.
+
+**Usuarios:**
+
+- **Propietarios y Gerentes de Hoteles:**
+
+  Se ubican principalmente en áreas urbanas y turísticas de todo el mundo, mayormente en ciudades importantes y destinos turísticos.
+
+  Son altamente dedicados a su negocio, priorizando la eficiencia y rentabilidad de su hotel. También tienen una necesidad de control, buscando herramientas que les permitan tener un control total sobre las facetas de su negocio. Además, mantienen un deseo continuo de mejorar, para asegurar el éxito de su hotel y satisfacer la experiencia del cliente.
+
+  En su mayoría, son adultos de entre 30 y 60 años. El nivel educativo varía, desde propietarios con educación empresarial formal, hasta gerentes con experiencia laboral en la industria hotelera. Por último, pueden tener una amplia experiencia en la gestión hotelera o ser propietarios recientes que buscan optimizar su negocio.
+
+- **Personal de Trabajo:**
+
+  Se ubican principalmente en áreas urbanas y turísticas de todo el mundo, mayormente en ciudades importantes y destinos turísticos.
+
+  Tienen una fuerte dedicación al servicio al cliente y a proporcionar una experiencia excepcional a los huéspedes. También, son capaces de adaptarse a una variedad de tareas y situaciones en un entorno dinámico y exigente. Además, valoran la colaboración y comunicación efectiva entre ellos y sus superiores, para garantizar el buen funcionamiento del hotel.
+
+  Mayormente son adultos jóvenes a adultos de mediana edad, con amplia experiencia laboral. También, varían en su nivel educativo, desde aquellos con educación secundaria hasta aquellos con formación específica en hospitalidad y turismo. Por último, su experiencia laboral varía, desde aquellos que recién empiezan, hasta aquellos que ya tienen experiencia personal en hoteles.
+
 # Capítulo II: Requirements Elicitation & Analysis
 
 ## 2.1. Competidores.
