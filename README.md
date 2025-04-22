@@ -382,21 +382,259 @@ líneas de código que se han modificado en cada uno de los commits.
 
 ## 1.3. Segmentos objetivo.
 
+A partir de nuestros usuarios asumidos, logramos encontrar nuestros segmentos objetivos a los que va dirigido nuestra solución.
+
+**Usuarios:**
+
+- **Propietarios y Gerentes de Hoteles:**
+
+  Se ubican principalmente en áreas urbanas y turísticas de todo el mundo, mayormente en ciudades importantes y destinos turísticos.
+
+  Son altamente dedicados a su negocio, priorizando la eficiencia y rentabilidad de su hotel. También tienen una necesidad de control, buscando herramientas que les permitan tener un control total sobre las facetas de su negocio. Además, mantienen un deseo continuo de mejorar, para asegurar el éxito de su hotel y satisfacer la experiencia del cliente.
+
+  En su mayoría, son adultos de entre 30 y 60 años. El nivel educativo varía, desde propietarios con educación empresarial formal, hasta gerentes con experiencia laboral en la industria hotelera. Por último, pueden tener una amplia experiencia en la gestión hotelera o ser propietarios recientes que buscan optimizar su negocio.
+
+- **Personal de Trabajo:**
+
+  Se ubican principalmente en áreas urbanas y turísticas de todo el mundo, mayormente en ciudades importantes y destinos turísticos.
+
+  Tienen una fuerte dedicación al servicio al cliente y a proporcionar una experiencia excepcional a los huéspedes. También, son capaces de adaptarse a una variedad de tareas y situaciones en un entorno dinámico y exigente. Además, valoran la colaboración y comunicación efectiva entre ellos y sus superiores, para garantizar el buen funcionamiento del hotel.
+
+  Mayormente son adultos jóvenes a adultos de mediana edad, con amplia experiencia laboral. También, varían en su nivel educativo, desde aquellos con educación secundaria hasta aquellos con formación específica en hospitalidad y turismo. Por último, su experiencia laboral varía, desde aquellos que recién empiezan, hasta aquellos que ya tienen experiencia personal en hoteles.
+
 # Capítulo II: Requirements Elicitation & Analysis
+En este capítulo, nos centraremos en los requerimientos que necesita cumplir nuestra solución para que sea viable, y los análisis necesarios.
 
 ## 2.1. Competidores.
 
+Empezando con los competidores a los que nos enfrentaremos con nuestra solución, su análisis competitivo, junto a nuestras estrategias y tácticas para hacerlas frente.
+
+Facebook (Indirecto): <br>
+En Facebook, los usuarios pueden crear perfiles personales, agregar amigos, publicar actualizaciones de estado, compartir fotos y videos, unirse a grupos y páginas, enviar mensajes privados, participar en eventos, jugar juegos y muchas otras actividades. La plataforma se ha expandido enormemente con el tiempo, integrando funciones como Facebook Marketplace (un mercado en línea), Facebook Watch (una plataforma de vídeo), y Facebook Messenger (una aplicación de mensajería instantánea). Lo cual implica que los gerentes de hoteles busquen empresas que brinden soluciones por medio de publicaciones en dicha plataforma.
+
+Mercado Libre (Indirecto): <br>
+Siendo la plataforma líder de comercio electrónico de América Latina, Mercado libre ofrece la compra y venta de artículos a precio fijo. La gestión hotelera también entra en la lista puesto que se promocionan venta de sistemas y código fuente que ayudan y facilitan a buen precio la gestión hotelera.
+
+Xafiro (Directo): <br>
+Xafiro es un software hotelero, que ahorra tiempo y optimiza la gestión de las operaciones diarias como registro de clientes, reservas, checkin y checkout de habitaciones, venta de productos, entre otros. Dicha empresa es competencia directa porque brinda la solución que ofrecemos como empresa.
+
+Binz 360 (Directo): <br>
+Binz 360 es una empresa que se encarga de la gestión de los recursos hoteleros, control de clientes y reportes de ingresos a un buen precio. Dicha empresa es competencia directa porque brinda la solución que planteamos a un precio económico.
+
+
 ### 2.1.1. Análisis competitivo.
+
+| ¿Por qué llevar a cabo este análisis? | Sweet Manager | ![Imagen de entrevista](https://i.imgur.com/RP5odv2.png) Facebook(Indirecto) | ![Imagen de entrevista](https://i.imgur.com/DkSnnQm.png) Mercado Libre(Indirecto) | ![Imagen de entrevista](https://i.imgur.com/Tvf8eiG.png) Xafiro(Directo) | ![Imagen de entrevista](https://i.imgur.com/sAipJ6Q.jpeg) Binz360(Directo) |
+|---------------------------------------|----------|-----------|------------|------------|------------|
+| **Overview**                          | Sweet Manager es una aplicación integral de gestión hotelera diseñada para simplificar y optimizar todas las operaciones relacionadas con la administración de un hotel | Plataforma de redes sociales utilizada para la promoción y publicidad de empresas hoteleras. Ofrece una amplia gama de herramientas de marketing y publicidad para llegar a una amplia audiencia. | Plataforma líder de comercio electrónico que ofrece sistemas y códigos fuente relacionados con la gestión hotelera. Proporciona opciones para la compra de productos y servicios que pueden mejorar la eficiencia en la gestión hotelera. | Solución de software hotelero que ahorra tiempo y optimiza la gestión de operaciones diarias. Ofrece características similares a Sweet Manager, como registro de clientes, reservas y gestión de inventarios. | Empresa especializada en la gestión de recursos hoteleros y control de clientes. Ofrece una solución competitiva en términos de gestión hotelera a un precio económico. |
+| **Ventaja Competitiva**               | Ofrece una solución integral para la gestión hotelera, desde seguimiento de ingresos y gastos hasta gestión de proveedores y clientes. Flexibilidad y accesibilidad, permitiendo a los administradores gestionar correctamente su negocio desde cualquier lugar y en cualquier momento. | Alcance masivo y capacidad de segmentación precisa del público objetivo. | Amplia variedad de productos y servicios disponibles. | Enfoque específico en la eficiencia de las operaciones diarias del hotel | Precio asequible para hoteles pequeños y medianos |
+| **Mercado Objetivo**                  | Gerentes y propietarios de hoteles de todos los tamaños buscan una solución eficiente y completa para la gestión de su negocio. | Hoteles de todos los tamaños que buscan aumentar su visibilidad en línea. | Propietarios de hoteles y gerentes que buscan soluciones de gestión. | Hoteles de mediano a gran tamaño que buscan una solución completa y eficiente. | Hoteles independientes y pequeñas cadenas hoteleras. |
+| **Estrategias de marketing**               | Campañas dirigidas en redes sociales y plataformas de anuncios digitales para llegar a la audiencia objetivo. Colaboraciones con asociaciones hoteleras y participación en eventos de la industria para aumentar la visibilidad y credibilidad de la marca. | Publicidad segmentada. Uso de contenido visual para atraer a los usuarios. | Promoción de productos relacionados con la gestión hotelera. Publicidad dirigida a profesionales de la industria hotelera. | Colaboración con asociaciones hoteleras en redes sociales. Campañas en redes sociales dirigidas a gerentes hoteleros. | Enfoque en el ahorro de costos y eficiencia operativa. Uso de marketing de contenidos para educar sobre la importancia de la gestión hotelera. |
+| **Productos & Servicios**               | Sweet Manager ofrece una gama de características, incluyendo seguimiento de ingresos y gastos, control de inventarios, gestión de proveedores y clientes. | Plataforma de redes sociales con diversas opciones de publicidad y promoción. Herramientas de análisis para medir el rendimiento de las campañas | Variedad de sistemas y códigos fuente relacionados con la gestión hotelera disponibles para la compra. Opciones de precio variadas para adaptarse a diferentes presupuestos | Ofrece una variedad de características para la gestión hotelera. Precios competitivos y opciones de personalización | Solución completa para la gestión hotelera con énfasis en la relación calidad-precio. Modelo de precios simple y transparente |
+| **Precios & Costos**                           | Ofrecido como servicio de suscripción mensual o anual con planes escalables según el tamaño y las necesidades del hotel. | No ofrece un costo. | No ofrece un costo. | Ofrece un precio bastante accesible y competitivo en el mercado. | Ofrece un precio cómodo para las pequeñas y medianas empresas. |
+| **Canales de distribución (Web o móvil)**                           | La aplicación está disponible tanto en versiones web como móviles para una mayor accesibilidad. | Principalmente a través de la plataforma de Facebook y sus herramientas de publicidad | Principalmente a través de la plataforma de Mercado Libre. | Principalmente ventas directas y demostraciones en línea | Principalmente ventas directas y a través de socios de distribución. |
+| **Fortalezas**                           | Solución eficaz, sencilla y rápida para la gestión hotelera. Interfaz intuitiva y fácil de usar. | Alcance masivo y herramientas de segmentación. | Amplia variedad de productos y servicios. | Solución especializada en operaciones diarias de hoteles. | Precio competitivo. |
+| **Debilidades**                           | Posible competencia de grandes empresas en el mercado de gestión hotelera | Menos especialización en la industria hotelera. | Menos enfoque en soluciones específicas para la industria hotelera. | Menos reconocimiento de marca que competidores establecidos. | Menos funcionalidades avanzadas en comparación con competidores más establecidos. |
+| **Oportunidades**                           | Crecimiento en la industria hotelera y demanda de soluciones eficientes de gestión. | Uso de datos para personalizar la publicidad. | Expansión a nuevos mercados verticales. | Expansión internacional. | Expansión a nuevos mercados. |
+| **Amenazas**                           | Competencia directa de otras empresas de software de gestión hotelera | Posible cambio en algoritmos de redes sociales que afecten la visibilidad de las empresas. | Posible competencia de otros mercados en línea. | Competencia directa de otros proveedores de software. | Posible competencia de proveedores de software con precios aún más bajos |
 
 ### 2.1.2. Estrategias y tácticas frente a competidores.
 
+Luego de realizar los análisis respectivos, las principales estrategias contra competidores son:
+
+A) Diferenciación de Servicios:<br>
+Estrategia: Identificar y desarrollar características únicas que hagan que Sweet Manager se destaque de otras soluciones en el mercado.<br>
+Tácticas:<br>
+Realizar investigaciones de mercado para comprender las necesidades y deseos no satisfechos de los clientes en la gestión hotelera.<br>
+Desarrollar nuevas funciones o servicios innovadores que aborden estas necesidades de manera efectiva.<br>
+Promover activamente estas características diferenciadoras a través de campañas de marketing y comunicación.
+
+B) Calidad Consistente:<br>
+Estrategia: Garantizar altos estándares de calidad en todos los aspectos de la aplicación y su servicio.<br>
+Tácticas:<br>
+Implementar rigurosos controles de calidad durante el desarrollo y la implementación de la aplicación.<br>
+Ofrecer capacitación y soporte continuo a los clientes para garantizar un uso óptimo de Sweet Manager.<br>
+Recopilar y analizar regularmente retroalimentación de los clientes para identificar áreas de mejora en la calidad y tomar medidas correctivas.
+
+C) Precios Competitivos:<br>
+Estrategia: Ofrecer una propuesta de valor atractiva que justifique el precio de Sweet Manager en comparación con otras soluciones en el mercado.<br>
+Tácticas:<br>
+Realizar análisis de precios comparativos para asegurarse de que los precios de Sweet Manager sean competitivos pero también rentables.<br>
+Ofrecer opciones de precios flexibles y personalizadas para adaptarse a las necesidades y presupuestos de diferentes tipos de hoteles.<br>
+Destacar el retorno de la inversión (ROI) y los beneficios adicionales que ofrece Sweet Manager para justificar su precio.
+
+D) Atención al Cliente de Calidad:<br>
+Estrategia: Priorizar la satisfacción del cliente y establecer relaciones sólidas con los usuarios de Sweet Manager.<br>
+Tácticas:<br>
+Ofrecer un servicio de atención al cliente receptivo y accesible, con tiempos de respuesta rápidos y soluciones efectivas.<br>
+Implementar programas de fidelización y recompensas para premiar la lealtad de los clientes. Fomentar una cultura interna centrada en el cliente y capacitar al equipo para entender y satisfacer las necesidades de los usuarios.
+
+E) Marketing y Publicidad Inteligente:<br>
+Estrategia: Utilizar estratégicamente los canales de marketing y publicidad para aumentar la visibilidad y la demanda de Sweet Manager.<br>
+Tácticas:<br>
+Segmentar el mercado y dirigir las campañas de marketing a los segmentos de clientes más relevantes y receptivos.<br>
+Utilizar tácticas de marketing digital como SEO, publicidad en redes sociales y marketing de contenidos para llegar a una audiencia más amplia.<br>
+Colaborar con influencers y líderes de opinión en la industria hotelera para respaldar y promocionar Sweet Manager.
+
+F) Alianzas Estratégicas:<br>
+Estrategia: Establecer asociaciones con otras empresas o proveedores complementarios para expandir el alcance y la funcionalidad de Sweet Manager.<br>
+Tácticas:<br>
+Identificar y establecer relaciones con empresas que ofrezcan servicios o productos que puedan integrarse con Sweet Manager de manera sinérgica.<br>
+Colaborar en eventos de la industria y programas de co-marketing para aumentar la visibilidad de la aplicación y sus socios.<br>
+Negociar acuerdos mutuamente beneficiosos que agreguen valor tanto para Sweet Manager como para sus socios.
+
+G) Innovación Continua:<br>
+Estrategia: Mantenerse a la vanguardia de la innovación en tecnología y gestión hotelera para ofrecer constantemente nuevas soluciones y mejoras.<br>
+Tácticas:<br>
+Establecer un equipo de investigación y desarrollo dedicado a la exploración de nuevas tecnologías y tendencias en la industria hotelera.<br>
+Fomentar una cultura de innovación dentro de la empresa, donde se valoren las ideas y se promueva la experimentación.<br>
+Mantenerse en contacto cercano con los clientes y la retroalimentación del mercado para identificar oportunidades de mejora y áreas de necesidad no satisfechas.
+
+H) Recopilación de Comentarios y Mejora Continua:<br>
+Estrategia: Utilizar comentarios de los clientes y datos analíticos para impulsar mejoras continuas en Sweet Manager.<br>
+Tácticas:<br>
+Implementar sistemas de retroalimentación y encuestas para recopilar comentarios de los usuarios de manera regular.<br>
+Analizar datos y métricas clave para identificar tendencias y áreas de oportunidad para la mejora.<br>
+Priorizar y ejecutar cambios basados en la retroalimentación del cliente y las necesidades del mercado, manteniendo un enfoque en la evolución constante de la aplicación.
+
 ## 2.2. Entrevistas.
+Las entrevistas son una herramienta fundamental para comprender las necesidades, deseos y desafíos de los usuarios, así como para validar las hipótesis y suposiciones del negocio. A través de las entrevistas, se pueden obtener valiosos conocimientos sobre las expectativas de los clientes, sus experiencias actuales y sus preferencias en cuanto a productos y servicios. En el caso de Sweet Manager, las entrevistas con propietarios, gerentes y personal de hoteles serán fundamentales para diseñar una solución que se adapte a las necesidades del mercado y ofrezca un valor significativo a los usuarios.
 
 ### 2.2.1. Diseño de entrevistas.
 
+En esta sección, se documentarán las preguntas que se utilizaron en nuestras entrevistas, contiendo las preguntas generales que se comparten entre los segmentos objetivos, y las preguntas que fueron creadas específicamente para cada una.
+
+**Preguntas complementarias generales**
+- ¿Qué navegador usas con más frecuencia?<br>
+- ¿Qué dispositivo tecnológico usas con más frecuencia?<br>
+- ¿Cómo describes tu personalidad?<br>
+- ¿Presentas alguna frustración en el trabajo?<br>
+- ¿Cuáles son los canales de interacción que usas?<br>
+- ¿Qué tipo de ambiente de trabajo te resulta más motivador y productivo?<br>
+- ¿Cómo se llama el distrito o lugar de tu residencia?<br>
+- ¿Qué objetivos tienes tanto laboralmente como personalmente?
+
+**Entrevistas usuario segmento 1: Gerentes**
+
+- ¿Cuáles son los principales desafíos que enfrentan en la gestión diaria de su hotel?<br>
+- ¿Qué características o funcionalidades consideraría más útiles para mejorar la eficiencia de su hotel?<br>
+- ¿Cómo gestionan actualmente las reservas de habitaciones y el seguimiento de ingresos y gastos en su hotel?<br>
+- ¿Qué herramientas o software utilizan actualmente para la gestión hotelera y qué aspectos les gustaría mejorar de esas herramientas?<br>
+- ¿Cuál es su opinión sobre la importancia de la movilidad y la accesibilidad en las soluciones de gestión hotelera?<br>
+- ¿Qué aspectos valoran más al evaluar nuevas soluciones de software para su hotel?<br>
+- ¿Cómo creen que podríamos mejorar la comunicación y la colaboración entre el personal del hotel y los gerentes?<br>
+- ¿Qué desafíos enfrentan al gestionar proveedores y controlar los inventarios en su hotel?<br>
+- ¿Cómo gestionan actualmente la satisfacción y las preferencias de los clientes en su hotel?<br>
+- ¿Cómo ve conveniente un sistema hotelero dedicado a la gestión de recursos, comunicación con proveedores, seguimiento de ganancias, etc?
+
+**Entrevistas usuario segmento 2: Trabajdores**
+
+- ¿Cuáles son las tareas o procesos diarios que considera más tediosos o que consumen más tiempo en su trabajo?<br>
+- ¿Qué herramientas o sistemas utilizan actualmente para realizar su trabajo y qué aspectos les resultan más difíciles o menos eficientes?<br>
+- ¿Cómo describiría la interacción y la comunicación entre los diferentes departamentos y miembros del personal del hotel?<br>
+- ¿Qué características adicionales le gustaría ver en un sistema de gestión hotelera para facilitar su trabajo diario?<br>
+- ¿Cómo se sienten acerca de la adopción de nuevas tecnologías en el lugar de trabajo y cómo creen que podría mejorar su experiencia laboral?<br>
+- ¿Qué desafíos enfrenta al gestionar las solicitudes de los huéspedes y asegurarse de que se cumplan sus expectativas durante su estancia?<br>
+- ¿Cómo manejan actualmente la capacitación y el desarrollo profesional en su hotel?<br>
+- ¿Qué medidas tomarían para mejorar la eficiencia y la colaboración dentro del equipo de trabajo?<br>
+- ¿Cómo creen que podríamos simplificar los procesos de registro de huéspedes y check-in/check-out en su hotel?<br>
+- ¿Qué herramientas o recursos adicionales les ayudarán a ofrecer un mejor servicio a los huéspedes y mejorar su experiencia general en el hotel?
+
+
 ### 2.2.2. Registro de entrevistas.
 
+A continuación, se registraron todas las entrevistas realizadas para nuestra solución, categorizadas según su segmento objetivo, y con un resumen que destaca las características y críticas realizadas sobre nuestro proyecto.
+
+**Entrevista 1 (Gerentes)**  
+URL del Vídeo:
+Nombre:  <br>
+Edad: <br>
+Sexo: <br>
+Ocupación: Gerente de hotel<br>
+Lugar donde vive: <br>
+Duración de la entrevista: <br>
+Personalidad: <br>
+![Imagen de entrevista]()<br>  
+(agregar un resumen)
+
+**Entrevista 2 (Gerentes)**  
+URL del Vídeo:
+Nombre:  <br>
+Edad: <br>
+Sexo: <br>
+Ocupación: Gerente de hotel<br>
+Lugar donde vive: <br>
+Duración de la entrevista: <br>
+Personalidad: <br>
+![Imagen de entrevista]()<br>  
+(agregar un resumen)
+
+
+**Entrevista 3 (Gerentes)**  
+URL del Vídeo:
+Nombre:  <br>
+Edad: <br>
+Sexo: <br>
+Ocupación: Gerente de hotel<br>
+Lugar donde vive: <br>
+Duración de la entrevista: <br>
+Personalidad: <br>
+![Imagen de entrevista]()<br>  
+(agregar un resumen)
+
+**Entrevista 1 (Empleados)**  
+URL del Vídeo:
+Nombre:  <br>
+Edad: <br>
+Sexo: <br>
+Ocupación: Trabajador de hotel<br>
+Lugar donde vive: <br>
+Duración de la entrevista: <br>
+Personalidad: <br>
+![Imagen de entrevista]()<br>  
+(agregar un resumen)
+
+**Entrevista 1 (Empleados)**  
+URL del Vídeo:
+Nombre:  <br>
+Edad: <br>
+Sexo: <br>
+Ocupación: Trabajador de hotel<br>
+Lugar donde vive: <br>
+Duración de la entrevista: <br>
+Personalidad: <br>
+![Imagen de entrevista]()<br>  
+(agregar un resumen)
+
+**Entrevista 1 (Empleados)**  
+URL del Vídeo:
+Nombre:  <br>
+Edad: <br>
+Sexo: <br>
+Ocupación: Trabajador de hotel<br>
+Lugar donde vive: <br>
+Duración de la entrevista: <br>
+Personalidad: <br>
+![Imagen de entrevista]()<br>  
+(agregar un resumen)
+
+
 ### 2.2.3. Análisis de entrevistas.
+Para concluir, en el apartado de análisis, usamos métricas obtenidas a partir de las preguntas que fueron respondidas, y la frecuencia de ciertas respuestas encontradas en las entrevistas.
+
+**Preguntas complementarias generales**
+
+![Reporte](https://i.imgur.com/nZq5rT4.png)<br>
+![Reporte](https://i.imgur.com/x9WLK4k.png)<br>
+![Reporte](https://i.imgur.com/g2onQok.png)
+
+**Segmento de gerentes**  
+![Analisis 1](https://i.imgur.com/SYDv3CT.png)<br>
+![Analisis 2](https://i.imgur.com/4dczXCF.png)<br>
+**Segmento de trabajadores**<br>
+![Analisis 3](https://i.imgur.com/oTUVvys.png)<br>
+![Analisis 4](https://i.imgur.com/puQWTwg.png)
+
 
 ## 2.3. Needfinding.
 Para tener una mejor idea de cómo será la experiencia del usuario con nuestro producto, utilizaremos las herramientas de User Persona, User Task Matrix, User Journey Mapping, Empathy Mapping y As-is Scenario Mapping.
