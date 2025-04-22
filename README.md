@@ -546,77 +546,81 @@ En esta sección, se documentarán las preguntas que se utilizaron en nuestras e
 A continuación, se registraron todas las entrevistas realizadas para nuestra solución, categorizadas según su segmento objetivo, y con un resumen que destaca las características y críticas realizadas sobre nuestro proyecto.
 
 **Entrevista 1 (Gerentes)**  
-URL del Vídeo:
-Nombre:  <br>
-Edad: <br>
-Sexo: <br>
+ URL del Vídeo: https://goo.su/1ooQvK 
+
+Nombre: jashira wendy elguera soto  <br>
+Edad: 24<br>
+Sexo: Mujer<br>
 Ocupación: Gerente de hotel<br>
-Lugar donde vive: <br>
-Duración de la entrevista: <br>
-Personalidad: <br>
-![Imagen de entrevista]()<br>  
-(agregar un resumen)
+Lugar donde vive: Miraflores<br>
+Duración de la entrevista: 00:00 - 5:57 <br>
+Personalidad: Analítica<br>
+![Imagen de entrevista](assets/chapter-2/interviews/entrevista1.jpeg)<br>  
+jashira usa Google Chrome desde su celular y laptop, y se comunica principalmente por correo electrónico, llamadas, WhatsApp y Zoom. Tiene una personalidad organizada, valora los buenos resultados y considera que lidera bien su negocio porque le gusta tener todo claro. Vive en Miraflores y trabaja en un entorno donde la comunicación fluida es importante. Su principal objetivo es mejorar la eficiencia operativa del hotel y lograr un mejor equilibrio entre su vida laboral y personal. Siente frustración cuando hay falta de coordinación entre áreas o los datos no están actualizados en tiempo real, ya que esto complica la toma de decisiones. Usa software de terceros para gestionar reservas, pero lo encuentra incómodo en el celular, además de registrar información en Excel, lo cual le resulta tedioso. Le gustaría contar con una aplicación que le permita tener un panel con registro financiero, asignación de tareas, envío de evidencias, control de inventario, equipos de limpieza y mantenimiento, además de reportes en tiempo real. Considera fundamental la movilidad para realizar las tareas y cree que una solución ideal debe ser muy fácil e intuitiva. También reconoce desafíos en la gestión del inventario, ya que muchas veces no se sabe con exactitud qué productos hay. Cree que los clientes están satisfechos cuando responden positivamente en las encuestas.
 
 **Entrevista 2 (Gerentes)**  
-URL del Vídeo:
-Nombre:  <br>
-Edad: <br>
-Sexo: <br>
+
+URL del Vídeo: https://goo.su/1ooQvK 
+
+Nombre: Piero Alessandro Rodríguez Grandes<br>
+Edad: 32 años<br>
+Sexo: Masculino <br>
 Ocupación: Gerente de hotel<br>
-Lugar donde vive: <br>
-Duración de la entrevista: <br>
-Personalidad: <br>
-![Imagen de entrevista]()<br>  
-(agregar un resumen)
+Lugar donde vive: Chorrillos<br>
+Duración de la entrevista: 5:58-11:03<br>
+Personalidad: Analítica<br>
+![Imagen de entrevista](assets/chapter-2/interviews/entrevista2.jpeg)<br>  
+Piero Rodríguez, gerente de un hotel en proceso de implementación de tecnología IoT, compartió los principales desafíos y oportunidades en la gestión diaria. Señaló como retos la supervisión de múltiples procesos operativos, la optimización de recursos y la mejora continua de la experiencia del huésped. Actualmente, el hotel utiliza un sistema PMS tradicional complementado con herramientas manuales como hojas de cálculo, lo cual limita la automatización y eficiencia.
+
+Destacó como funcionalidades clave la automatización mediante IoT, el monitoreo en tiempo real de habitaciones, la centralización de información financiera y operativa, y una mejor integración entre herramientas. Además, considera fundamental la movilidad y accesibilidad en las soluciones de software, permitiendo una gestión más dinámica y efectiva.
+
+En cuanto a la gestión de inventarios y proveedores, mencionó la falta de visibilidad en tiempo real y el desorden en el seguimiento de pedidos. Respecto a la satisfacción del cliente, actualmente usan encuestas post-estancia, pero reconoce que podrían mejorar integrando tecnologías que personalicen la experiencia del huésped.
+
+Finalmente, considera muy conveniente contar con un sistema integral que gestione recursos, comunicación con proveedores y seguimiento financiero, todo apoyado por tecnologías IoT que faciliten la toma de decisiones y la mejora continua del servicio.
 
 
 **Entrevista 3 (Gerentes)**  
-URL del Vídeo:
-Nombre:  <br>
-Edad: <br>
-Sexo: <br>
+URL del Vídeo: https://goo.su/1ooQvK
+
+Nombre: Diego Bastidas <br>
+Edad:  26<br>
+Sexo: Masculino <br>
 Ocupación: Gerente de hotel<br>
-Lugar donde vive: <br>
-Duración de la entrevista: <br>
+Lugar donde vive: San Isidro<br>
+Duración de la entrevista: 11:04-16:25 <br>
 Personalidad: <br>
-![Imagen de entrevista]()<br>  
-(agregar un resumen)
+![Imagen de entrevista](assets/chapter-2/interviews/entrevista3.jpeg)<br>
+
+Diego Bastidas, gerente hotelero de 26 años, señala como principales retos atraer turistas de otras provincias y afrontar la baja demanda en temporada baja. Utiliza Google Chrome y un smartphone Android para sus tareas, y prefiere ambientes laborales organizados con buena comunicación. Actualmente emplea plataformas separadas para reservas y contabilidad, pero busca una solución centralizada e intuitiva que permita acceder desde cualquier dispositivo. Considera clave mejorar la comunicación interna, la gestión de inventarios, proveedores y las preferencias del cliente con una sola herramienta integral.
+
+
 
 **Entrevista 1 (Empleados)**  
-URL del Vídeo:
-Nombre:  <br>
-Edad: <br>
-Sexo: <br>
-Ocupación: Trabajador de hotel<br>
-Lugar donde vive: <br>
-Duración de la entrevista: <br>
-Personalidad: <br>
-![Imagen de entrevista]()<br>  
-(agregar un resumen)
+URL del Vídeo: https://goo.su/1ooQvK
 
-**Entrevista 1 (Empleados)**  
-URL del Vídeo:
-Nombre:  <br>
-Edad: <br>
-Sexo: <br>
+Nombre: Rubi Cortez <br>
+Edad: 22<br>
+Sexo: Femenino<br>
 Ocupación: Trabajador de hotel<br>
-Lugar donde vive: <br>
-Duración de la entrevista: <br>
+Lugar donde vive: Surco<br>
+Duración de la entrevista: 16:27-23:05<br>
 Personalidad: <br>
-![Imagen de entrevista]()<br>  
-(agregar un resumen)
+![Imagen de entrevista](assets/chapter-2/interviews/entrevista4.jpeg)<br>
+vive en Surco, usa Google Chrome desde su celular y laptop, y se comunica principalmente por WhatsApp y llamadas. Tiene una personalidad organizada, le gusta ver buenos resultados y trabajar en entornos con bastante comunicación y transparencia. Su principal frustración es la falta de herramientas óptimas para administrar hospedajes y datos importantes de forma intuitiva y rápida, lo cual dificulta la toma de decisiones. Su objetivo es mejorar la eficiencia operativa del hotel con una herramienta integral que abarque desde la administración hasta la supervisión de habitaciones y sus contenidos. Actualmente utiliza software de terceros para gestionar reservas y complementa el registro con Excel, lo que considera tedioso, especialmente al generar reportes. También encuentra incómodo usar estos sistemas en el celular. Le gustaría contar con un panel administrativo que incluya el registro financiero, asignación de tareas, comunicación directa y registrada, además de reportes en tiempo real. Para ella, es fundamental que la solución sea muy fácil e intuitiva, y que permita movilidad para realizar tareas con eficiencia. Además, identifica desafíos en el control de inventario, ya que muchas veces no se sabe con exactitud qué productos hay. Cree que los clientes están satisfechos cuando las encuestas reflejan experiencias positivas.
 
-**Entrevista 1 (Empleados)**  
-URL del Vídeo:
-Nombre:  <br>
-Edad: <br>
-Sexo: <br>
+
+
+**Entrevista 2 (Empleados)**  
+URL del Vídeo: https://goo.su/1ooQvK
+Nombre: Sergio Gomez vallejos <br>
+Edad: 21<br>
+Sexo: Masculino<br>
 Ocupación: Trabajador de hotel<br>
-Lugar donde vive: <br>
-Duración de la entrevista: <br>
+Lugar donde vive: Comas <br>
+Duración de la entrevista: 23:06-29:56<br>
 Personalidad: <br>
-![Imagen de entrevista]()<br>  
-(agregar un resumen)
+![Imagen de entrevista](assets/chapter-2/interviews/entrevista5.jpeg)<br>
+Sergio vive en Comas y utiliza principalmente Google Chrome en su laptop por su velocidad y sincronización. Se comunica a través de correo electrónico, videollamadas (Google Meet), WhatsApp y herramientas colaborativas como Trello. Tiene una personalidad proactiva, le gusta aportar ideas y trabajar en entornos colaborativos donde se valore la autonomía y la retroalimentación. Su objetivo laboral es seguir creciendo profesionalmente y asumir nuevos retos, mientras que a nivel personal busca un equilibrio con su vida familiar. Le frustra la lentitud y falta de claridad en procesos internos, especialmente tareas como el registro manual de huéspedes, gestión de reservas y actualización de disponibilidad en diversas plataformas. Actualmente usa un sistema PMS anticuado que presenta problemas de sincronización y caídas frecuentes. Identifica desafíos en la comunicación entre áreas, como limpieza y mantenimiento, lo que genera confusiones en los check-in. Le gustaría un sistema que integre canales de reserva, tenga chat interno, alertas automáticas y seguimiento de solicitudes. Está a favor de nuevas tecnologías si son intuitivas y bien implementadas. Considera clave un sistema centralizado con información del huésped, historial, preferencias y seguimiento en tiempo real para ofrecer un mejor servicio.
 
 
 ### 2.2.3. Análisis de entrevistas.
@@ -644,6 +648,7 @@ Para tener una mejor idea de cómo será la experiencia del usuario con nuestro 
 **Segmento de gerentes:**  
 ![Imagen User Persona 1](https://i.imgur.com/68GDcWN.png)
 
+**Segmento de trabajadores:**  
 **Segmento de trabajadores:**  
 ![Imagen User Persona 1](https://i.imgur.com/R5GiS1R.png)
 ### 2.3.2. User Task Matrix.
